@@ -14,6 +14,7 @@ This repository contains the implementation of a voice authentication system usi
 - **High Security**: Designed for secure applications such as **financial transactions** and **confidential communications**.
 
 ---
+![Structure of the Librispeech Dataset](dataset.drawio(3).png)
 
 ## **Key Features and Architecture**
 
