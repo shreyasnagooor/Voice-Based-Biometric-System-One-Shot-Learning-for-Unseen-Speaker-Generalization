@@ -1,4 +1,4 @@
-Voice-Based Biometric System: One-Shot Learning for Unseen Speaker Generalization
+###Voice-Based Biometric System: One-Shot Learning for Unseen Speaker Generalization
 Introduction
 This repository contains the implementation of a voice authentication system using one-shot learning for generalizing to unseen speakers. The system utilizes a custom Siamese network architecture, combining ResNet-18 for feature extraction, GRU layers for sequential modeling, and an attention mechanism for refining speaker embeddings. The system is evaluated on the LibriSpeech dataset and is ideal for financial transactions and secure communications.
 
