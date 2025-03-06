@@ -17,6 +17,9 @@ This repository contains the implementation of a voice authentication system usi
 ![Structure of the Librispeech Dataset](dataset.drawio (3).png)
 
 ## **Key Features and Architecture**
+## **Model Architecture**
+![Model Architecture](https://github.com/shreyasnagooor/Voice-Based-Biometric-System-One-Shot-Learning-for-Unseen-Speaker-Generalization/raw/main/Model%20Arch.png)
+
 
 ### **Feature Extraction**  
 - Utilizes **MFCC (Mel-frequency cepstral coefficients)** to capture speech characteristics.
