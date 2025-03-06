@@ -14,7 +14,7 @@ This repository contains the implementation of a voice authentication system usi
 - **High Security**: Designed for secure applications such as **financial transactions** and **confidential communications**.
 
 ---
-![Structure of the Librispeech Dataset](dataset.drawio (3).png)
+
 
 ## **Key Features and Architecture**
 ## **Model Architecture**
@@ -54,6 +54,9 @@ This repository contains the implementation of a voice authentication system usi
 - **LibriSpeech Dataset**: Used **train-clean-100** subset (~100 hours of audio).
 - Preprocessed to a **16kHz** sampling rate with **MFCC extraction**.
 - Augmented with **Gaussian noise**, **pitch shifting**, and **time stretching** for robustness.
+- ## **Dataset Architecture**
+![Dataset Architecture](https://github.com/shreyasnagooor/Voice-Based-Biometric-System-One-Shot-Learning-for-Unseen-Speaker-Generalization/raw/main/dataset.drawio%20(3).png)
+
 
 ---
 
